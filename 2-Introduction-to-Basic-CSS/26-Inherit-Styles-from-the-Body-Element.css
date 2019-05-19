@@ -1,0 +1,9 @@
+/* I was shown how elemnts inherit styles from upper elements like the body element by default */
+<style>
+  body {
+    background-color: black;
+    color: green;
+    font-family: monospace;
+  }
+</style>
+<h1>Hello World</h1>

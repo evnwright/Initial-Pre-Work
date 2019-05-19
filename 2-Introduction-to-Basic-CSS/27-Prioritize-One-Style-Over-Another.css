@@ -1,0 +1,12 @@
+/* I learned that defining and elements style removes the default cascading style from an upper element */
+<style>
+  .pink-text {
+    color: pink;
+  }
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+</style>
+<h1 class="pink-text">Hello World!</h1>
