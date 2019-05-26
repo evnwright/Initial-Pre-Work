@@ -1,0 +1,21 @@
+// I learned how to store data as objects
+
+// Example
+var ourDog = {
+  "name": "Camper",
+  "legs": 4,
+  "tails": 1,
+  "friends": ["everything!"]
+};
+
+// Only change code below this line.
+
+var myDog = {
+  "name": "Suzanne Sommers",
+  "legs": 4,
+  "tails": 2,
+  "friends": [3, "Fosters"]
+
+
+
+};
